@@ -1,6 +1,6 @@
-Nombre: 		Luis E. Jiménez
+Nombre: 		Celeste Paiz Aguila
 Edad: 			23
-Nacionalidad: 		mexicano
-Originario de: 		Tijuana, Baja California
-Estudios:		Ing. en Computación
-Profesión:		Lead Project Manager
+Nacionalidad: 		mexicana
+Originario de: 		Tlaxcala
+Estudios:		Ing. en Tecnologias Computacionales
+Profesiï¿½n:		Estudiante
